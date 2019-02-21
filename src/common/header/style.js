@@ -111,6 +111,7 @@ export const SearchInfo = styled.div`
 	top: 56px;
 	width: 240px;
 	padding: 0 20px;
+	background-color: #fff;
 	box-shadow: 0 0 8px rgba(0, 0, 0, .2);
 `;
 
@@ -125,6 +126,14 @@ export const SearchInfoTitle = styled.div`
 export const SearchInfoSwitch = styled.div`
 	float: right;
 	font-size: 13px;
+	cursor: pointer;
+	.spin {
+		display: block;
+		float: left;
+		font-size: 12px;
+		margin-right: 2px;
+		transition: all .2s ease-in;
+	}
 `;
 
 export const SearchInfoItem = styled.a`
@@ -138,6 +147,7 @@ export const SearchInfoItem = styled.a`
 	border: 1px solid #ddd;
 	color: #787878;
 	border-radius: 3px;
+	cursor: pointer;
 `;
 
 export const SearchInfoList = styled.div`
@@ -147,7 +157,7 @@ export const SearchInfoList = styled.div`
 export const SearchWrapper= styled.div`
 	float: left;
 	position: relative;
-	.iconfont {
+	.zoom {
 		position: absolute;
 		right: 5px;
 		bottom: 5px;
