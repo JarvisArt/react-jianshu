@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [{
+      "id": 1,
+      "title": "社会热点",
+      "imgUrl": "http://img0.imgtn.bdimg.com/it/u=2883228894,2691211408&fm=26&gp=0.jpg"
+    },{
+      "id": 2,
+      "title": "手绘",
+      "imgUrl": "http://img3.imgtn.bdimg.com/it/u=4216666747,4106248422&fm=26&gp=0.jpg"
+    }],
+    "articleList": [{
+      "id": 1,
+      "title": "(原创散文) 岁月不饶人，我亦未曾饶过岁月",
+      "desc": "爱是瞬间的，是支离破碎的，但在自我的记忆美化中，它可以成为惊天动地的旷世之恋。霸道的情，清绝的爱，只是从此后，一切的一切，便与你无关。 题记 倾...",
+      "imgUrl": "http://upload-images.jianshu.io/upload_images/15809683-0ee59ef8846a82a6.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": 2,
+      "title": "77句话！最喜欢67条，太有道理了",
+      "desc": "77句话！最喜欢67条，经典收藏！太有道理了 1、真正有气质的淑女，从不炫耀她所拥有的一切，她不告诉人她读过什么书，去过什么地方，有多少件衣服，...",
+      "imgUrl": "http://upload-images.jianshu.io/upload_images/4127955-07425c9575f4ca7c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": 3,
+      "title": "写给内向高敏感人群：接纳自我、改善低自尊、提升能量的根本方法（中）",
+      "desc": "明确了问题所在，我们就可以从根本入手去解决。如果根源在于自我同一性未完成，那么就从最基础的三点开始。 首先明确自我认知，我是谁，我是一个什么样的...",
+      "imgUrl": "http://upload-images.jianshu.io/upload_images/5972418-c27eb5aa86bf9400.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": 4,
+      "title": "五个年轻人值得去做的小生意，冷门项目，也赚大钱",
+      "desc": "现在的年轻人不管是身在职场还是初入社会，他们对未来总是充满激情，充满活力，更多的年轻人其实向往的是自由的生活，对每天朝九晚五的工作或者工厂没日没...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/14588509-22dfb287a4331e8a.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    }],
+    "recommendList": [{
+      "id": 1,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+    },{
+      "id": 2,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+    },{
+      "id": 3,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    },{
+      "id": 4,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    },{
+      "id": 5,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+    }]
+  }
+}
